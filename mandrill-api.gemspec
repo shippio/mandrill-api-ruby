@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
     s.version = '1.0.55'
     s.summary = 'A Ruby API library for the Mandrill email as a service platform.'
     s.description = s.summary + "\noriginal repository: https://bitbucket.org/mailchimp/mandrill-api-ruby"
-    s.authors = ['Mandrill Devs', 'current verstion: Shippio\'s dev']
+    s.authors = ['Mandrill Devs', 'current version: Shippio Devs']
     s.email = 'it@shippio.com'
     s.files = ['lib/mandrill.rb', 'lib/mandrill/api.rb', 'lib/mandrill/errors.rb']
     s.homepage = 'https://github.com/shippio/mandrill-api-ruby/'
